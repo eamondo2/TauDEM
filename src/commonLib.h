@@ -41,7 +41,7 @@ email:  dtarb@usu.edu
 #define COMMON_H
 #include <cmath>
 #include <float.h>
-#include "mpi.h"
+#include <mpi.h>
 #include <stdint.h>
 #include "ogr_api.h"
 #include <queue>  // DGT 5/27/18
